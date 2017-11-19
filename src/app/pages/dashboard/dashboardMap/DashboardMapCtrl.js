@@ -26,8 +26,8 @@
         "balloonText": "[[title]]: <strong>[[value]]</strong>"
       },
       "valueLegend": {
-        "minValue": "little",
-        "maxValue": "a lot!"
+        "minValue": "menor",
+        "maxValue": "mayor"
       },
       "zoomControl": {
         "minZoomLevel": 0.9

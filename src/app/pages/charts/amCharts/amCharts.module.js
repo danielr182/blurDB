@@ -310,7 +310,7 @@
         // ammap
         AreasSettings: {
           alpha: 0.8,
-          color: "#00b2a2",
+          color: "#00c2b2",
           colorSolid: "#005764",
           unlistedAreasAlpha: 0.4,
           unlistedAreasColor: "#000000",
